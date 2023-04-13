@@ -14,13 +14,13 @@ The calculator provides two theme options to the user:
 
 ### Dark Theme
 
-![Dark Theme](dark_theme.png)
+![Dark Theme](https://github.com/Hasan-Arslan2779/Dark_and_Light_Themed_Calculator/blob/master/ScreenShot_20230413172500.jpeg)
 
 The dark theme offers a visually appealing interface with dark colors and high contrast.
 
 ### Light Theme
 
-![Light Theme](light_theme.png)
+![Light Theme](https://github.com/Hasan-Arslan2779/Dark_and_Light_Themed_Calculator/blob/master/ScreenShot_20230413172523.jpeg)
 
 The light theme provides a brighter appearance with light colors and a user-friendly interface.
 
